@@ -14,7 +14,7 @@ organizations:
   url: http://www.sennerlab.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research is focused on the stopover ecology of long-distance migratory shorebirds.
 
 # Interests to show in About widget
 interests:
