@@ -64,8 +64,6 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a MSc student in the [Senner Lab](http://www.sennerlab.com/) at the University of South Carolina. I study the role nocturnal roost sites play in the stopover ecology and migratory performance of Atlantic flyway Whimbrel (_Numenius phaeopus_). By tracking Whimbrel movements during and after their spring stopover on the coast of South Carolina, she is investigating how individuals select foraging and roosting sites and working to better understand how those choices influence their entire annual cycle. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+#{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
