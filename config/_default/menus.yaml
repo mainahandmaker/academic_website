@@ -16,7 +16,10 @@ main:
   - name: News
     url: '#news'
     weight: 50
-
+  - name: CV
+    url: 'static/uploads/handmaker-cv-may2021.pdf'
+    weight: 60
+    
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
  # - name: CV
