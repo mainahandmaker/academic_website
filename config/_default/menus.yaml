@@ -3,22 +3,49 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
-main:
-  - name: Home
-    url: '#about'
-    weight: 10
-  - name: Research
-    url: '#research'
-    weight: 20
-  - name: Publications
-    url: '#publications'
-    weight: 40
-  - name: News
-    url: '#news'
-    weight: 50
+[[main]]
+  name = "Home"
+  url = "#about"
+  weight = 10
+
+[[main]]
+  name = "Research"
+  url = "#research"
+  weight = 20
+
+[[main]]
+  name = "Publications"
+  url = "#publications"
+  weight = 30
+  
+[[main]]
+  name = "News"
+  url = "#news"
+  weight = 30
+
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
+ [[main]]
+    name = "CV"
+    url = "static/uploads/handmaker-cv-may2021.pdf"
+    weight = 70
+    
+#main:
+ # - name: Home
+ #   url: '#about'
+ #   weight: 10
+ # - name: Research
+ #   url: '#research'
+ #   weight: 20
+ # - name: Publications
+ #   url: '#publications'
+ #   weight: 40
+ # - name: News
+  #  url: '#news'
+  #  weight: 50
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
-  - name: CV
-  url: 'static/uploads/handmaker-cv-may2021.pdf'
-  weight: 70
+ # - name: CV
+ # url: 'static/uploads/handmaker-cv-may2021.pdf'
+ # weight: 70
