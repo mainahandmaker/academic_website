@@ -5,7 +5,7 @@ name = "MCH"
 light = true
 
 # Primary
-primary = "#BD973D"
+primary = "#9A9B5F"
 
 # Menu
 menu_primary = "#fff"
