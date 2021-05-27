@@ -12,10 +12,10 @@ main:
     weight: 20
   - name: Publications
     url: 'publication/'
-    weight: 40
+    weight: 50
   - name: News
     url: '#news'
-    weight: 50
+    weight: 40
   - name: CV
     url: 'uploads/handmaker-cv-may2021.pdf'
     weight: 60
