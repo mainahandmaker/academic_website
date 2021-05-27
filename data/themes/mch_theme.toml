@@ -19,6 +19,8 @@ home_section_odd = "rgb(255, 255, 255)"
 home_section_even = "rgb(247, 247, 247)"
 
 [dark]
+primary = "#9A9B5F"
+menu_text = "#79B38F"
 menu_text_active = "#D98A63"
-  link = "#9A9B5F"
-  link_hover = "#79B38F"
+menu_title = "#9A9B5F"
+link_hover = "#79B38F"
