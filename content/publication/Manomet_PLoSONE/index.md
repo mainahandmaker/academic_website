@@ -46,7 +46,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'pone.0222232.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
