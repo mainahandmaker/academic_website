@@ -1,6 +1,7 @@
 ---
 title: Investigating Whimbrel use of a critical nocturnal roost
-subtitle: Using GPS transmitters to better understand foraging and roosting habitat selection at during migratory stopover
+subtitle: Using GPS transmitters to better understand foraging and roosting habitat selection during migratory stopover
+
 # Summary for listings and search engines
 summary: We are deploying GPS transmitters on Whimbrel to track their daily movements to and from a critical nocturnal roost and diurnal foraging areas, to better understand the role nocturnal roosts play in this species' stopover ecology.
 
@@ -22,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'A Whimbrel arriving to roost on Deveaux Bank'
+  caption: 'A Whimbrel arriving to roost'
   focal_point: ""
   placement: 2
   preview_only: false
@@ -41,13 +42,13 @@ categories:
 
 ## Overview
 
-1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+Together with collaborators [**Felicia Sanders**](https://www.dnr.sc.gov/news/2020/oct/oct29-shorebird.php#:~:text=Felicia%20Sanders%2C%20who%20serves%20as,of%20Fish%20and%20Wildlife%20Agencies.), [**Adam Smith**](https://adamdsmith.me/), and my advisor [**Dr. Nathan Senner**](http://www.sennerlab.com/research.html) I am working to better understand how Whimbrel select roosting and foraging habitat during their north and southbound migratory stopovers on the coast of South Carolina. 
 
 {{< figure src="whim_tagging.jpg" caption="Tagging Whimbrel with PinPoint GPS transmitters." >}}
 
-## Get Started
+As of Spring 2021, we have deployed [**Lotek**](http://lotek.com/) solar-powered PinPoint GPS transmitters on 12 individuals. These transmitters record over 100 GPS-quality positions per day and allow data download via antenna base stations we install seasonally at the nocturnal roost site on Deveaux Bank. 
+
+{{< figure src="toweranddata.jpg" caption="Temporary antenna base station and example of high-resolution movement data downloaded from Whimbrel tagged with GPS transmitters." >}}
 
 - 👉 [**Create a new site**](https://wowchemy.com/templates/)
 - 📚 [**Personalize your site**](https://wowchemy.com/docs/)
