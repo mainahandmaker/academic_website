@@ -2,7 +2,7 @@
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
-    
+
 main:
   - name: Home
     url: '#about'
@@ -11,7 +11,7 @@ main:
     url: '#research'
     weight: 20
   - name: Publications
-    url: 'publication/'
+    url: 'publications/'
     weight: 50
   - name: News
     url: '#news'
@@ -19,7 +19,7 @@ main:
   - name: CV
     url: 'uploads/handmaker-cv-may2021.pdf'
     weight: 60
-    
+
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
  # - name: CV
