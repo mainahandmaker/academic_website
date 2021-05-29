@@ -11,10 +11,10 @@ main:
     url: 'research/'
     weight: 20
   - name: Publications
-    url: 'publication/'
+    url: 'publications/'
     weight: 50
   - name: News
-    url: 'project/'
+    url: 'news/'
     weight: 40
   - name: CV
     url: 'uploads/handmaker-cv-may2021.pdf'
