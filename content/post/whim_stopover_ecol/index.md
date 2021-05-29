@@ -24,7 +24,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'A Whimbrel arriving to roost'
+  caption: 'A Whimbrel arriving to roost for the night'
   focal_point: ""
   placement: 2
   preview_only: false
