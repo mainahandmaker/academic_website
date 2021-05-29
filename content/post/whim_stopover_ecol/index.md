@@ -55,4 +55,4 @@ As of Spring 2021, we have deployed [**Lotek**](http://lotek.com/) solar-powered
 
 [^1]: [Watts _et al._ 2019](https://academic.oup.com/condor/article/121/1/duy001/5307067)
 [^2]: [Johnson _et al._ 2016](https://onlinelibrary.wiley.com/doi/abs/10.1111/jofo.12173)
-[3^]: [Watts _et al._ 2021](https://onlinelibrary.wiley.com/doi/epdf/10.1111/jav.02629)
+[^3]: [Watts _et al._ 2021](https://onlinelibrary.wiley.com/doi/epdf/10.1111/jav.02629)
