@@ -42,7 +42,6 @@ permalinks:
   categories: '/category/:slug/'
   publication_types: '/publication-type/:slug/'
   publication: '/publications/:slug'
-  post: '/research/:slug'
   project: '/news/:slug'
 disableAliases: true
 outputs:
