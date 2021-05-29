@@ -14,7 +14,7 @@ organizations:
   url: http://www.sennerlab.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a student in the [**Senner Lab**](http://www.sennerlab.com/) at the University of South Carolina. My current research is focused on the stopover ecology of long-distance migratory shorebirds.
+bio: I am a graduate student in the [**Senner Lab**](http://www.sennerlab.com/) at the University of South Carolina. My current research is focused on the stopover ecology of long-distance migratory shorebirds.
 
 # Interests to show in About widget
 interests:
