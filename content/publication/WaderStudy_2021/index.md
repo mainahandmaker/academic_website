@@ -1,6 +1,5 @@
 ---
 title: "Nocturnal roost on South Carolina coast supports nearly half of Atlantic coast population of Hudsonian Whimbrel during northward migration"
-url: "publications/Wader-Study-2021"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
