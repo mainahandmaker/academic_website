@@ -1,6 +1,7 @@
 ---
 title: Investigating Whimbrel use of a critical nocturnal roost
 subtitle: Using GPS transmitters to better understand foraging and roosting habitat selection during migratory stopover
+slug: whimbrel-stopover-ecology
 
 # Summary for listings and search engines
 summary: We are deploying GPS transmitters on Whimbrel to track their daily movements to and from a critical nocturnal roost and diurnal foraging areas, to better understand the role nocturnal roosts play in this species' stopover ecology.
