@@ -40,7 +40,11 @@ categories:
 - Current Research
 ---
 
-## Overview
+## Background
+Whimbrel (_Numenius phaeopus_) are experiencing dramatic declines, in part due to the degradation and loss of migratory stopover sites. [^1] The Georgia-South Carolina coast is one of these critical stopover regions, and in fact may be one of only two staging areas used by nearly all Atlantic flyway Whimbrel during northward migration [^2]. For shorebirds like Whimbrel that rely on intertidal habitats, a critical component of high-quality stopover habitat is the availability of safe roost sites that provide a place to rest when feeding areas are inundated by high tide and offer safety from predators and disturbance at night. These nocturnal roost sites may be especially rare [^3], requiring birds to make long flights to and from their foraging areas each day. For this project, we are tracking the daily movements of Whimbrel that roost on the South Carolina island Deveaux Bank, [the largest known nocturnal roost for the species]({{< relref "/publications/nocturnal-roost-on-south-carolina-coast-supports-nearly-half-of-atlantic-coast-population-of-hudsonian-whimbrel-during-northward-migration" >}}). Through high-resolution GPS data, we are seeking to better understand how Whimbrel select roosting and foraging habitat during migratory stopover, and what role  nocturnal roost sites may play in their stopover ecology and migratory performance. 
+
+
+
 
 Together with collaborators [**Felicia Sanders**](https://www.dnr.sc.gov/news/2020/oct/oct29-shorebird.php#:~:text=Felicia%20Sanders%2C%20who%20serves%20as,of%20Fish%20and%20Wildlife%20Agencies.), [**Adam Smith**](https://adamdsmith.me/), and my advisor [**Dr. Nathan Senner**](http://www.sennerlab.com/research.html) I am working to better understand how Whimbrel select roosting and foraging habitat during their north and southbound migratory stopovers on the coast of South Carolina. 
 
