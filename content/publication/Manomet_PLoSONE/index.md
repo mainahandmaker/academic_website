@@ -58,7 +58,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: **Maina Handmaker**'
+  caption: 'Banding migratory warblers during peak spring migration at the Manomet Bird Observatory'
   focal_point: ""
   preview_only: false
 
