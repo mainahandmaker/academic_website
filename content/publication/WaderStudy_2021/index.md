@@ -48,7 +48,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ''
-url_code: ''
+url_code: 'https://github.com/mainahandmaker/nocturnal-roost-counts'
 url_dataset: ''
 url_poster: ''
 url_project: ''
