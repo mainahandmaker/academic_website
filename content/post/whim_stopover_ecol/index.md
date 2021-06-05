@@ -53,6 +53,14 @@ As of Spring 2021, we have deployed [**Lotek**](http://lotek.com/) solar-powered
 
 {{< figure src="toweranddata.jpg" caption="Temporary antenna base station and example of high-resolution movement data downloaded from Whimbrel tagged with GPS transmitters." >}}
 
+## Partners
+From navigating choppy waters at night to tirelessly troubleshooting trapping methods, this work would not be possible without the patience and persistence of many partners. Your insights and guidance have strengthened this project beyond measure. For the time and energy you have poured into fieldwork to make this project possible, thank you to:
+- Felicia Sanders, Janet Thibault, Mary-Catherine Martin, Jennifer Cahill, [Coastal Bird Conservation Program](https://www.sccoastalbirds.org/), [SCDNR](https://www.dnr.sc.gov/wildlife/species/coastalbirds/index.html)
+- [Adam Smith](https://adamdsmith.me/), [United States Fish & Wildlife Service Inventory and Monitoring Program](https://www.fws.gov/southeast/national-wildlife-refuges/inventory-and-monitoring/)
+- [Abby Sterling](https://www.manomet.org/our_people/abby-sterling/), [Manomet Georgia Bight Shorebird Conservation Initiative](https://www.manomet.org/project/ga-bight-shorebird-conservation/)
+- Fletcher Smith and Tim Keyes, [GADNR Wildlife Resources Division](https://georgiawildlife.com/)
+- Ethan Shealy, Field Technician Spring 2021
+
 [^1]: [Watts _et al._ 2019](https://academic.oup.com/condor/article/121/1/duy001/5307067)
 [^2]: [Johnson _et al._ 2016](https://onlinelibrary.wiley.com/doi/abs/10.1111/jofo.12173)
 [^3]: [Watts _et al._ 2021](https://onlinelibrary.wiley.com/doi/epdf/10.1111/jav.02629)
