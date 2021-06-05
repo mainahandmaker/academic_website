@@ -53,7 +53,7 @@ As of Spring 2021, we have deployed [**Lotek**](http://lotek.com/) solar-powered
 
 {{< figure src="toweranddata.jpg" caption="Temporary antenna base station and example of high-resolution movement data downloaded from Whimbrel tagged with GPS transmitters." >}}
 
-## Partners
+#### Partners
 From navigating choppy waters at night to tirelessly troubleshooting trapping methods, this work would not be possible without the patience and persistence of many partners. Your insights and guidance have strengthened this project beyond measure. For the time and energy you have poured into fieldwork to make this project possible, thank you to:
 - Felicia Sanders, Janet Thibault, Mary-Catherine Martin, Jennifer Cahill, [Coastal Bird Conservation Program](https://www.sccoastalbirds.org/), [SCDNR](https://www.dnr.sc.gov/wildlife/species/coastalbirds/index.html)
 - [Adam Smith](https://adamdsmith.me/), [United States Fish & Wildlife Service Inventory and Monitoring Program](https://www.fws.gov/southeast/national-wildlife-refuges/inventory-and-monitoring/)
