@@ -60,6 +60,7 @@ From navigating choppy waters at night to tirelessly troubleshooting trapping me
 - [Abby Sterling](https://www.manomet.org/our_people/abby-sterling/), [Manomet Georgia Bight Shorebird Conservation Initiative](https://www.manomet.org/project/ga-bight-shorebird-conservation/)
 - Fletcher Smith and Tim Keyes, [GADNR Wildlife Resources Division](https://georgiawildlife.com/)
 - Ethan Shealy, Field Technician Spring 2021
+- [Andy Johnson](https://www.birds.cornell.edu/home/staff/andy-johnson/), Center for Conservation Media, Cornell Lab of Ornithology 
 
 [^1]: [Watts _et al._ 2019](https://academic.oup.com/condor/article/121/1/duy001/5307067)
 [^2]: [Johnson _et al._ 2016](https://onlinelibrary.wiley.com/doi/abs/10.1111/jofo.12173)
