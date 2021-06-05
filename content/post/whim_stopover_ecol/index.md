@@ -62,6 +62,16 @@ From navigating choppy waters at night to tirelessly troubleshooting trapping me
 - Ethan Shealy, Field Technician Spring 2021
 - [Andy Johnson](https://www.birds.cornell.edu/home/staff/andy-johnson/), Center for Conservation Media, Cornell Lab of Ornithology 
 
+#### Funding
+This research is supported by:
+- [National Fish and Wildlife Foundation Atlantic Flyway Shorebird Initiative](https://www.nfwf.org/programs/atlantic-flyway-shorebird-initiative)
+- [Carolina Bird Club](https://www.carolinabirdclub.org/)
+- [Georgia Ornithological Society](https://www.gos.org/)
+- [Association of Field Ornithologists](https://afonet.org/)
+- [National Science Foundation Graduate Research Fellowship](https://www.nsfgrfp.org/)
+
+
+
 [^1]: [Watts _et al._ 2019](https://academic.oup.com/condor/article/121/1/duy001/5307067)
 [^2]: [Johnson _et al._ 2016](https://onlinelibrary.wiley.com/doi/abs/10.1111/jofo.12173)
 [^3]: [Watts _et al._ 2021](https://onlinelibrary.wiley.com/doi/epdf/10.1111/jav.02629)
