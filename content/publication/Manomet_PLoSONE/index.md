@@ -1,5 +1,6 @@
 ---
 title: "A half-century of changes in migratory landbird numbers along coastal Massachusetts"
+slug: kamm-et-al-2019
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
