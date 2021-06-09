@@ -43,9 +43,9 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-links:
-- name: Custom Link
-url: 'https://www.waderstudygroup.org/article/15036/'
+# links:
+# - name: Custom Link
+# url: 'https://www.waderstudygroup.org/article/15036/'
 
 url_pdf: 'publication/WaderStudy_2021/1282-Sanders-et-al.pdf'
 url_code: 'https://github.com/mainahandmaker/nocturnal-roost-counts'
