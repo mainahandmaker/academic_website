@@ -5,7 +5,7 @@
 
 title: Maina Handmaker # Website name
 baseurl: 'https://mainahandmaker.com/' # Website URL
-copyright: 'Maina Handmaker © {year} | Photo by [Andy Johnson](https://www.birds.cornell.edu/home/staff/andy-johnson/)'
+copyright: '© Maina Handmaker, {year}'
 
 ############################
 ## LANGUAGE
