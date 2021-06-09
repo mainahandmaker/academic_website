@@ -47,7 +47,7 @@ links:
 - name: Custom Link
 url: 'https://www.waderstudygroup.org/article/15036/'
 
-url_pdf: ''
+url_pdf: 'publication/WaderStudy_2021/1282-Sanders-et-al.pdf'
 url_code: 'https://github.com/mainahandmaker/nocturnal-roost-counts'
 url_dataset: ''
 url_poster: ''
