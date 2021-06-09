@@ -136,7 +136,7 @@ marketing:
   google_analytics: ''
   google_tag_manager: ''
   google_site_verification: ''
-  baidu_site_verification: ''
+  baidu_site_verification: 'google-site-verification=_VljOJtNVWGhDgjXUWXci4XIims-6_NeMgKnxhi5qV0'
   baidu_tongji: ''
 cms:
   branch: master
