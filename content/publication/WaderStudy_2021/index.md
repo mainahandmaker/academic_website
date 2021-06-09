@@ -17,7 +17,7 @@ authors:
 #- "Equal contribution"
 
 date: "2021-06-15T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.18194/ws.00228"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
