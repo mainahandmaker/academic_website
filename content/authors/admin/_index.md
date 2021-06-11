@@ -64,4 +64,4 @@ email: ""
 highlight_name: true
 ---
 
-I am currently a MSc student in the [Senner Lab](http://www.sennerlab.com/) at the University of South Carolina. I study the role nocturnal roost sites play in the stopover ecology and migratory performance of Atlantic flyway Whimbrel (_Numenius phaeopus_). By tracking Whimbrel movements during and after their migratory stopovers on the coast of South Carolina, I am investigating how individuals select foraging and roosting sites and working to better understand how those choices influence their entire annual cycle. 
+I am currently an MSc student in the [Senner Lab](http://www.sennerlab.com/) at the University of South Carolina. I study the role nocturnal roost sites play in the stopover ecology and migratory performance of Atlantic flyway Whimbrel (_Numenius phaeopus_). By tracking Whimbrel movements during and after their migratory stopovers on the coast of South Carolina, I am investigating how individuals select foraging and roosting sites and working to better understand how those choices influence their entire annual cycle. 
