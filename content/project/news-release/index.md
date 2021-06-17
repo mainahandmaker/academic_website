@@ -1,7 +1,7 @@
 ---
 title: Enormous flock of declining shorebird discovered in South Carolina
 summary: SCDNR News Release, 15 June 2021
-date: "2021-06-14T00:00:00Z"
+date: "2021-06-15T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://www.eurekalert.org/pub_releases/2021-06/scdo-efo061421.php"
