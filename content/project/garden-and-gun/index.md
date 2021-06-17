@@ -1,7 +1,7 @@
 ---
 title: The Wild Story of a Whimbrel Migration Mystery
-summary: Pubished in _Garden & Gun_ magazine
-# date: "2021-06-15T00:00:00Z"
+summary: _Garden & Gun_ magazine
+date: "2021-06-15T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://gardenandgun.com/feature/the-wild-story-of-a-whimbrel-migration-mystery/"
