@@ -7,7 +7,7 @@ summary: Pubished in _Garden & Gun_ magazine
 external_link: "https://gardenandgun.com/feature/the-wild-story-of-a-whimbrel-migration-mystery/"
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Photo by Gately Williams, Garden & Gun
   focal_point: Smart
 
 links:
