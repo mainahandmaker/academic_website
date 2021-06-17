@@ -1,6 +1,6 @@
 ---
 title: Enormous flock of declining shorebird discovered in South Carolina
-summary: Small island hosts world's largest night roost for whimbrel, SCDNR News Release 15 June 2021
+summary: SCDNR News Release 15 June 2021
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
