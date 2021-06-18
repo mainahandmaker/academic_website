@@ -38,7 +38,7 @@ design:
 ---
 
 
-{{< youtube id="KSr6V3VDgFo" title="Discovery at Deveaux, announcement film produced by the Cornell Lab of Ornithology" >}}
+{{< youtube id="KSr6V3VDgFo" caption="Discovery at Deveaux, announcement film produced by the Cornell Lab of Ornithology" >}}
 
 
 
