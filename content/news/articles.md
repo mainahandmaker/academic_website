@@ -1,5 +1,3 @@
-{{< youtube KSr6V3VDgFo >}}
-
 ---
 # An instance of the Portfolio widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
@@ -38,3 +36,5 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
+
+{{< youtube KSr6V3VDgFo >}}
