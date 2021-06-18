@@ -13,7 +13,7 @@ main:
   - name: Publications
     url: 'publications/'
     weight: 50
-  - name: News
+  - name: Media
     url: 'news/'
     weight: 40
   - name: CV
