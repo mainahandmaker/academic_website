@@ -6,7 +6,7 @@ title: Maina Handmaker
 superuser: true
 
 # Role/position/tagline
-role: MSc Student
+role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
