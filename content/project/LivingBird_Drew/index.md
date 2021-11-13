@@ -1,13 +1,13 @@
 ---
-title: Leave This Wondrous Island to the Birds
-summary: _New York Times_, 19 June 2021
-date: "2021-06-19T00:00:00Z"
+title: Wildness on a Whim: Reflections on Whimbrel in the South Carolina Lowcountry
+summary: Essay by Drew Lanham, _Living Bird_, 13 October 2021
+date: "2021-10-13T01:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.nytimes.com/interactive/2021/06/19/opinion/carolina-coast-whimbrel-deveaux.html"
+external_link: "https://www.allaboutbirds.org/news/wildness-on-a-whim-reflections-on-whimbrel-in-the-south-carolina-lowcountry/"
 
 image:
-  caption: Photo by Damon Winter, New York Times
+  caption: Whimbrel by Andy Johnson/Cornell Lab of Ornithology
   focal_point: Smart
 
 links:
