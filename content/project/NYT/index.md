@@ -1,7 +1,7 @@
 ---
 title: Leave This Wondrous Island to the Birds
 summary: by Deborah Cramer, _New York Times_, 19 June 2021
-date: "2021-07-19T00:00:00Z"
+date: "2021-06-19T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://www.nytimes.com/interactive/2021/06/19/opinion/carolina-coast-whimbrel-deveaux.html"
