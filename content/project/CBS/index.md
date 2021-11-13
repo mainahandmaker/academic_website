@@ -1,6 +1,6 @@
 ---
 title: Tagging migrating Whimbrel shorebirds
-summary: _CBS Sunday Morning_, 12 September 2021
+summary: Feature story on _CBS Sunday Morning_, 12 September 2021
 date: "2021-09-12T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
