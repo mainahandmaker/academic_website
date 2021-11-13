@@ -1,7 +1,7 @@
 ---
 title: Wildness on a Whim: Reflections on Whimbrel in the South Carolina Lowcountry
 summary: Essay by Drew Lanham, _Living Bird_, 13 October 2021
-date: "2021-10-13T00:01:00Z"
+date: "2021-10-13T01:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://www.allaboutbirds.org/news/wildness-on-a-whim-reflections-on-whimbrel-in-the-south-carolina-lowcountry/"
@@ -23,4 +23,3 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-
