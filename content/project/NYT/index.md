@@ -1,6 +1,6 @@
 ---
 title: Leave This Wondrous Island to the Birds
-summary: _New York Times_, 19 June 2021
+summary: by Deborah Cramer, _New York Times_, 19 June 2021
 date: "2021-06-19T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
