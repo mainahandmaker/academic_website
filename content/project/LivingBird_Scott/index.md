@@ -1,6 +1,6 @@
 ---
 title: A Miracle of Abundance as 20,000 Whimbrel Take Refuge on a Tiny Island
-summary: _Living Bird_, 13 October 2021
+summary: Story by Scott Weidensaul, _Living Bird_, 13 October 2021
 date: "2021-10-13T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
