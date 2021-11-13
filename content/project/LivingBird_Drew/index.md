@@ -7,7 +7,7 @@ date: "2021-10-13T00:01:00Z"
 external_link: "https://www.allaboutbirds.org/news/wildness-on-a-whim-reflections-on-whimbrel-in-the-south-carolina-lowcountry/"
 
 image:
-  caption: Whimbrel flying to Deveaux Bank by Andy Johnson/Cornell Lab of Ornithology
+  caption: Whimbrel by Andy Johnson/Cornell Lab of Ornithology
   focal_point: Smart
 
 links:
